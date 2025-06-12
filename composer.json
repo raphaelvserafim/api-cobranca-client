@@ -5,9 +5,19 @@
   "require": {
     "php": ">=7.4"
   },
+  "homepage": "https://github.com/raphaelvserafim/api-cobranca-client",
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "autoload": {
     "psr-4": {
       "ApiCobranca\\": "src/"
     }
-  }
+  },
+  "authors": [
+    {
+      "name": "Raphael Serafim",
+      "email": "raphaelvserafim@gmail.com"
+    }
+  ]
 }
