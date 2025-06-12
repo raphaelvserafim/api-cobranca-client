@@ -1,0 +1,13 @@
+{
+  "name": "raphaelvserafim/api-cobranca-client",
+  "description": "Cliente PHP para API de cobrança",
+  "type": "library",
+  "require": {
+    "php": ">=7.4"
+  },
+  "autoload": {
+    "psr-4": {
+      "ApiCobranca\\": "src/"
+    }
+  }
+}
